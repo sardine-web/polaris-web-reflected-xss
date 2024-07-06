@@ -34,5 +34,4 @@ This template is created for educational purposes only. Unauthorized use of this
 
 This project is licensed under the MIT License.
 
-Author: Sardine Web
-
+- [Twitter Author](https://twitter.com/sardine_web) - Sardine Web 
