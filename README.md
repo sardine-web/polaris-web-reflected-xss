@@ -26,7 +26,13 @@ Disclaimer
 
 This template is intended for educational purposes only. Testing for vulnerabilities should only be performed on systems you have explicit permission to test.
 
+# Disclaimer
+
+This template is created for educational purposes only. Unauthorized use of this template on systems you do not own or have explicit permission to test is illegal and unethical. Use this tool responsibly and only on systems where you have permission to perform security testing.
+
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License.
+
+Author: Sardine Web
 
