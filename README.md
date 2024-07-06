@@ -2,6 +2,13 @@
 
 An attacker can inject his own malicious JavaScript code into vulnerable parameters and can also perform various actions, such as stealing the victim's session token or other users' login credentials.
 
+# Link Exploit
+
+<link> https://cxsecurity.com/issue/WLB-2023070070 </link>
+
+# Dork
+      Siap+Micros S.p.A
+
 # Usage
 
 To use this Nuclei template, follow these steps:
@@ -22,3 +29,4 @@ This template is intended for educational purposes only. Testing for vulnerabili
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details
+
