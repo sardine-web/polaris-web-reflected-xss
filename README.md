@@ -10,14 +10,15 @@ To use this Nuclei template, follow these steps:
 - Save the provided template as polaris-web-reflected-xss.yaml.
 - Run Nuclei with the template against your target:
 
-sh
 
-nuclei -t /path/to/polaris-web-reflected-xss.yaml -u https://example.com
+
+      nuclei -t /path/to/polaris-web-reflected-xss.yaml -u https://example.com
 
 Replace https://example.com with the URL of your target.
 Disclaimer
 
 This template is intended for educational purposes only. Testing for vulnerabilities should only be performed on systems you have explicit permission to test.
-License
+
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details
